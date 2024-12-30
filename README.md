@@ -7,3 +7,4 @@ Day 3 - December 27th- Excel Formulas continued: Len, Left-mid-right, Date to te
 Day 4 - December 29- Xlookup in Excel: Multiple rows, Search order, Horizontal and Vlookup v. Xlookup with AlexTheAnalyst https://raw.githubusercontent.com/AlexTheAnalyst/Excel-Tutorial/refs/heads/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx
       - Created a GitHub account
       - Conditional Formatting (Color schemes, define data quickly and pattern trends annd create new rules) With AlexTheAnalyst https://raw.githubusercontent.com/AlexTheAnalyst/Excel-Tutorial/refs/heads/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx
+Day 5- December 30th- Charts in Excel- visual graphs, graph manipulation and customization

@@ -25,20 +25,19 @@ Day 6- December 31st- Cleaning Data in Excel- Finding format issues, grammar iss
             This should look something like: =Upper(c2) 
             Rename new column with original name with a '-fixed'
             
-            IMPORTANT
+IMPORTANT
             After data is cleaned in new column, copy and paste in original column with VALUES OPTION!!! This will paste as a string in the original unclean column and therefore you can delete the -fixed column. Now the original column is updated. 
                   -Shortcut to do this ^ would be: select beginning cell in -fixed column then CNTRL + Shift + down and then cntrl+C. Next click on the original first cell in the uncleaned column or just press the arrow left or right depending on original column                            position and right click to paste AS A VALUE. It should copy what was cleaned in the -fixed column. Now delete fixed column since this is a working document to be shared back. 
                   
-      -When cleaning data, take stock of what is useful and what is not. Useful data would be data that you can visually represent, group and breakout with graphs or the like.
-      -To Trim data would be useful when theres to many spaces between names or numbers out of error. Invisible spaces can cause issues later on when importing to SQL. 
+-When cleaning data, take stock of what is useful and what is not. Useful data would be data that you can visually represent, group and breakout with graphs or the like.
+-To Trim data would be useful when theres to many spaces between names or numbers out of error. Invisible spaces can cause issues later on when importing to SQL. 
             -Formula to Trim: Create new column alongside misformatted column.
             -Type =Trim(column cell to be fixed)
                   Example: =Trim(G2) and then enter.
                   
-      -Currency needs to be cleaned in order to properly run in other programs like SQL to properly run calculations. you want to avoid special characters in numerical data (like the dollar sign $) so it doesnt turn back in SQL as a text or string that you cant work            with. 
-            -To fix this and remove special characters, select the column to be cleaned and then choose Number under the home tab, then select general. 
-            
-      -The Dates in data sets need to be cleaned by being orgnaized and uniformed.
-            To uniform the dates: Highlight the column to be fixed, then select the humber drop down in the Home tab. Select short date.
+-Currency needs to be cleaned in order to properly run in other programs like SQL to properly run calculations. you want to avoid special characters in numerical data (like the dollar sign $) so it doesnt turn back in SQL as a text or string that you cant work            with. 
+      -To fix this and remove special characters, select the column to be cleaned and then choose Number under the home tab, then select general. 
+-The Dates in data sets need to be cleaned by being orgnaized and uniformed.
+      -To uniform the dates: Highlight the column to be fixed, then select the number drop down in the Home tab. Select short date.
             
       

@@ -39,5 +39,7 @@ IMPORTANT
       -To fix this and remove special characters, select the column to be cleaned and then choose Number under the home tab, then select general. 
 -The Dates in data sets need to be cleaned by being orgnaized and uniformed.
       -To uniform the dates: Highlight the column to be fixed, then select the number drop down in the Home tab. Select short date.
+EXCEL PROJECT INITIATED ON DAY 6- DECEMBER 31ST 2025
+See uploaded project when available. 
             
       

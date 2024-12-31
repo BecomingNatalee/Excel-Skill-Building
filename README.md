@@ -8,3 +8,4 @@ Day 4 - December 29- Xlookup in Excel: Multiple rows, Search order, Horizontal a
       - Created a GitHub account
       - Conditional Formatting (Color schemes, define data quickly and pattern trends annd create new rules) With AlexTheAnalyst https://raw.githubusercontent.com/AlexTheAnalyst/Excel-Tutorial/refs/heads/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx
 Day 5- December 30th- Charts in Excel- visual graphs, graph manipulation and customization
+Day 6- Dedember 31st- Cleaning Data in Excel- Finding format issues, grammar issues, duplicates,

@@ -41,5 +41,7 @@ IMPORTANT
       -To uniform the dates: Highlight the column to be fixed, then select the number drop down in the Home tab. Select short date.
 EXCEL PROJECT INITIATED ON DAY 6- DECEMBER 31ST 2025
 See uploaded project when available. 
+
+Day 7-January 1st 2025- Excel Project continued
             
       

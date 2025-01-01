@@ -1,4 +1,5 @@
 Excel shortcuts to become familiar with to save on time 
+To gather pivot table data from working sheet, select a cell, then insert tab, then pivot table, then select working sheet and press Ctrl + A = Which will Paste data to pivot tables sheet
 Control + Z = to go back a step
 Control + Y = to go forward a step
 Ctrl + PageDown: Moves to the next sheet 

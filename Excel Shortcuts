@@ -5,3 +5,4 @@ Ctrl + PageDown: Moves to the next sheet
 Ctrl + PageUp: Moves to the previous sheet
 Ctrl + C: Copies selected cells 
 Ctrl + V: Pastes content at the insertion point
+After selecting desired column press Ctrl + H: will bring up find and replace menu which can label unclear abbreveitaions all at once (for example: M can be found and replaced into Male. S can be found and replaced for single, etc.) 

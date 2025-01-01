@@ -45,5 +45,6 @@ See uploaded project when available.
 Day 7-January 1st 2025- Excel Project continued
 Pulling data in this project to find answer to the problem of what is influencing bike sales and to help bike seller understand what aspects of his customers needs can he consider towards improving. More specifically, we created the Average income per purchase data graph to see if income/gender changed whether they bought a bike, are these customers making more money, basically whats the reasoing in reguards to a customers income for these sales? 
 Pulling data in this project to find answer and visually represent commuting distance and how that aspect influences bike sales. How far does the person buying a bike live, 20 miles or 1 mile? 
+When answering your clients business needs for pattern and trend analysis, you want to decrease as much confusion or "messiness" in data visulization as possible so trends are clear for concise interpretation. A good example of this would be adding brackets to areas in age groups for example so that the numbers dont appear jumbled and hard to read. Goal is to help client make sense of patterns! 
             
       
